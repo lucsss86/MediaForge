@@ -1,0 +1,6 @@
+MediaForge project source: generated for the requester.
+
+Third-party runtime dependency:
+  dev.ffmpegkit-maintained:ffmpeg-kit-full:8.1.9
+
+FFmpegKit/FFmpeg components carry their own licenses. The maintained FFmpegKit project describes the non-GPL full artifact as LGPL-3.0 family. Before redistributing an APK publicly or commercially, review the dependency's current licensing materials and comply with all applicable notice/source/relinking requirements.
